@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/readwithuslms/LMSAdminUController.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>131</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/saifu/Desktop/Library_Management(JavaFX)/src/LMS_classes/LMS_BorrowInfo.java</file>
+            <file>file:/C:/Users/saifu/Desktop/Library_Management(JavaFX)/src/LMS_views/LMS_BorrowBookController.java</file>
+            <file>file:/C:/Users/saifu/Desktop/Library_Management(JavaFX)/src/LMS_classes/LMS_ResBookDetails.java</file>
+            <file>file:/C:/Users/saifu/Desktop/Library_Management(JavaFX)/src/LMS_views/FXML_bookBarrowUI.fxml</file>
+            <file>file:/C:/Users/saifu/Desktop/Library_Management(JavaFX)/src/LMS_views/FXML_MemberUIController.java</file>
+            <file>file:/C:/Users/saifu/Desktop/Library_Management(JavaFX)/src/LMS_views/LMSAdminUController.java</file>
+            <file>file:/C:/Users/saifu/Desktop/Library_Management(JavaFX)/src/LMS_views/FXML_bookBarrowUIController.java</file>
+            <file>file:/C:/Users/saifu/Desktop/Library_Management(JavaFX)/src/LMS_views/LMS_BorrowBook.fxml</file>
+            <file>file:/C:/Users/saifu/Desktop/Library_Management(JavaFX)/src/LMS_views/LMS_BookReturnAndReseveController.java</file>
+            <file>file:/C:/Users/saifu/Desktop/Library_Management(JavaFX)/src/LMS_views/LMS_StartController.java</file>
+            <file>file:/C:/Users/saifu/Desktop/Library_Management(JavaFX)/src/LMS_views/LMS_bookManage.fxml</file>
+            <file>file:/C:/Users/saifu/Desktop/Library_Management(JavaFX)/src/LMS_classes/LMS_Windows.java</file>
+            <file>file:/C:/Users/saifu/Desktop/Library_Management(JavaFX)/src/LMS_classes/LMS_BorrowBookDetails.java</file>
+            <file>file:/C:/Users/saifu/Desktop/Library_Management(JavaFX)/src/LMS_views/FXML_OverdueInfoController.java</file>
+            <file>file:/C:/Users/saifu/Desktop/Library_Management(JavaFX)/src/LMS_views/FXML_memberManageController.java</file>
+        </group>
+    </open-files>
+</project-private>
